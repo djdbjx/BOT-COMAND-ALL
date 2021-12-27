@@ -30,7 +30,7 @@
     "process": "^0.11.10",
     "random-puppy": "^1.1.0",
     "request-promise-native": "^1.0.9",
-    "soundcloud-downloader": "^0.1.9",
+    "soundcloud-downloader": "^0.2.4",
     "spotify-url-info": "^2.2.0",
     "translatte": "^3.0.0",
     "urban.js": "^2.4.3",
