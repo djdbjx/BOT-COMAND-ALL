@@ -36,7 +36,7 @@
     "urban.js": "^2.4.3",
     "user-instagram": "^2.1.9",
     "weather-js": "^2.0.0",
-    "youtube-sr": "^3.0.3",
+    "youtube-sr": "^4.1.8",
     "ytdl-core": "^4.4.5"
   },
   "devDependencies": {},
