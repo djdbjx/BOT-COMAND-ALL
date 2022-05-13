@@ -9,7 +9,7 @@
   "author": "Tomato#6966",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.3.3",
+    "@discordjs/opus": "^0.5.2",
     "discord.js": "^12.5.1"
   }
 }
